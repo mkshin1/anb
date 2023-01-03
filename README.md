@@ -10,4 +10,4 @@ This is a project that does something cool.
 
 ## Contributing
 
-We welcome contributions to the project! Please see the CONTRIBUTING.md file for more information.
+We welcome contributions to the project! Please see the CONTRIBUTING.md file for more information!
